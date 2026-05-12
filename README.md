@@ -3,7 +3,6 @@
 ## Author
 - **Name:** Mary Macharia
 - **GitHub:** marymacharia521-netizen
-- Site live at https://marymacharia521-netizen.github.io/iyf-s10-week-10-marymacharia521-netizen
 - **Date:** April 12, 2026
 
 ## Project Description
